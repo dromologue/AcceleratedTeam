@@ -9,6 +9,7 @@ The fundamental job of a leader is to give people reason to believe in a better 
 - I commit to communicating clearly to you both the challenges and opportunities I see for the organisation and our team.
 - I commit to build a shared vision of how our team will transform this organisation together with you.
 - Representing this vision, I commit to focus on creating customer value. This will sharpen our effectiveness and grow our influence.
+- I commit to creating a respectful, safe and enjoyable place to work. 
 
 ## Commitments of a Manager
 
