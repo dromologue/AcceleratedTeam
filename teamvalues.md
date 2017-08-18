@@ -1,6 +1,5 @@
 # An open letter to my new team
-Hi. We don’t know each other well yet, and how this is all going to work out will unfold over time. It will take us a while to get the measure of each other and create real trust. If we are to do great things, trust is more important than anything else. So, as our journey begins, I would like to outline what I think the job of a (1) leader, (2) manager, (3) team member and (4) technologist is and make these commitments to you. We are all technologists and members of a team. Some of you are managers. Give some thought to how these commitments apply in your teams. We must all be effective leaders of the continued improvement that we seek for our teams and organisation.
-I look forward to discussing these with you. Holding me and yourself accountable for those we agree will form the basis of our working agreements will be a foundation of trust that we will rely on in the coming months.
+Hi. As our journey begins, I would like to outline what I think the job of a (1) leader, (2) manager, (3) team member and (4) technologist should be. These aspirations are the basis of everything we will build together. We are all technologists and members of a team. Some of you are managers. Give some thought to how these commitments might apply in your teams. We must all be effective leaders of the continued improvement that we seek for our teams and organisation. I look forward to discussing these with you and you joining me in evolving them to represent OUR TEAM and what we want to achieve together. 
 
 ## Commitments of a Leader
 
