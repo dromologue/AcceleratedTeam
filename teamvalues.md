@@ -45,3 +45,25 @@ The fundamental job of a technologist today is to bring technology to bear on a 
 That’s it. The rest we can work out as we go. 
 
 J. 
+
+**UPD**:
+
+Core values that were defined at the Platform team (used [Principles](https://www.principles.com/) by Ray Dalio as one of the inputs):
+
+## Be Open
+Being open, whether this means being open, transparent and prompt with your own feedback or being open-minded when it comes to other people giving feedback to you, is crucial to our overall success. If you don't agree with something - raise your concerns, make sure you understand why something is being done the way it is or demand a change. If you don't understand something - ask questions, don't just "let it go".
+Be direct with your feedback, (communicate it to the person, not to his/her manager or your peers). Be constructive - make sure your points are valid (at least to you), probe yourself before probing others.
+Accept feedback openly. Don't be defensive or deflective - at no point people want to accuse you in anything or expose your weaknesses in a bad way. Instead, they want to ensure success and help you grow.
+
+## Have Integrity And Demand It From Others
+Never say something about the person that you wound't say to his/her face. Gossip, intrigues and "quiet frustration" are not what this team is about. Any issues, conflicts or misunderstandings - resolve them on the spot.
+
+## Love Your Customers
+We are a team of engineers making products for other engineers. These people are our customers and partners. If they are not successful leveraging our technology, then it's most-likely that we've done our job poorly. Listen to them, always be there for them and don't compromise when it comes to their success. 
+
+## Love What You Do
+Don't tolerate "9 till 5" mind-set. If you don't enjoy what do, if you don't feel like you're progressing professionally or if you feel like you're not bringing enough value with your current work - raise it. We want you to be passionate about what you do and to feel happy coming to work every day. 
+
+## Be A Leader
+Being a leader means inspiring other people, coaching them and helping them with their struggles. Don't assume someone else will do it - step-up and offer help. If you see that quality is slipping - raise it, don't expect someone else to hold the bar for everybody.  
+
